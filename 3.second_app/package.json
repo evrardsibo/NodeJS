@@ -1,0 +1,16 @@
+{
+  "name": "second_app",
+  "version": "1.0.0",
+  "description": "We'll build a very simple pet management app. With no UI other than the API endpoints we'll design in a RESTfull manner and the data stored remotely through mongoose objects on mlab, a MONGODB BAAS (Backend As A Service). At multiple steps we'll be making use of postman, our favorite API development environment. The example folder is the app in it's finished state with commented code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
